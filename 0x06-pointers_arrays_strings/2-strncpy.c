@@ -3,7 +3,7 @@
 /**
  * *_strncpy - Copies up to n characters from src to dest.
  * @dest: The destination string.
- * @*src: The source string.
+ * @src: The source string.
  * @n: The maximum number of characters to copy from src.
  *
  * Return: A pointer to the destination string.
