@@ -4,7 +4,7 @@
  * print_square - prints square with the '#' chaqracter
  * @size: number of square
  *
- * Return: void 
+ * Return: void
  */
 void print_square(int size)
 {
